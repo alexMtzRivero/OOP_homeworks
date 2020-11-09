@@ -1,3 +1,3 @@
 ## Alejandro Martinez
-![example workflow file path](https://github.com/alexMtzRivero/OOP_homeworks/workflows/.github/workflows/gradle-publish.yml/badge.svg)
+![Gradle Package](https://github.com/alexMtzRivero/OOP_homeworks/workflows/Gradle%20Package/badge.svg?event=check_run)
     
